@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "教育经历"
+title: "test"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+教育经历
+======
 2016-2021 同济大学 车辆工程
 方向： 汽车电子
 
